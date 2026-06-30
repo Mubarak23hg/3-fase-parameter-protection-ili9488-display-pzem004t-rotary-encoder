@@ -1,4 +1,4 @@
-# 3-fase-parameter-protection-ili9488-display-pzem004t-rotary-encoder
+# 3-fase-parameter-V A protection-ili9488-display-pzem004t-rotary-encoder-curent grafik mode,menu tampilan parameter fasa ke netral dan tampilan parameter fasa ke fasa, proteksi jika tegangan salah satu fasa hilang, menu untuk berapa lama waktu tunggu sistem proteksi agar ketika beban kejut diawal sistem tidak protek selagi dalam waktu yang ditentukan, ada monitoring power faktor juga beserta tampilan peringatannya jikanilai pf dibawah standart ketentuan
 program ngasal, tapi berfungsi
 
 
